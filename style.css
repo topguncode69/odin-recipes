@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    
+}
+
+.title {
+display: block;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 30px;
+margin: 30px;
+font-size: 40px;}
+
+.lasagna {display: inline-block;
+padding: 40px;
+font-size: 30px;}
+
+
+.pasta {display: inline-block;
+padding: 40px;
+font-size: 30px;}
+
+
+.bread {display: inline-block;
+padding: 40px;
+font-size: 30px;}
+
+.navbar{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {text-decoration: none;}
