@@ -1,3 +1,4 @@
+
 body {
     background-color: burlywood;
     
@@ -33,3 +34,31 @@ font-size: 30px;}
 }
 
 a {text-decoration: none;}
+
+.ingr {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.divcen {text-align: center;}
+
+.homebut {text-align: left;
+padding: 15px;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+display: inline-block;
+margin: 10px;
+background-color: rgb(207, 166, 54);
+border: 2px;
+border-color: black;
+border-width: 3px;
+border-style: solid;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {text-align: center;
+list-style-position: inside;}
